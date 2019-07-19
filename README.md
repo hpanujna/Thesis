@@ -46,13 +46,3 @@ Inference:(What needs to be taken care of by the organization)
 3.Peers must support their fellow colleagues in implementing anyhing new learned in the training
 4.Management should include tainees while deciding the content of the course so that they are aware of what they will be dealing with in the training program
 
-#the top 9 features are
- #'TT3'-I use most of what i learnt in the training program
- #'TD8'-Topics covered in the training were up to date with the recent technology(technical trainings)
- #'TD2'-The trainer interacted well wit the trainees
- #'TD4'-Time allotted or the training was appropriate
- #'TT5'-I get support from my peers when i implement learnings from the training
- #'EM3'-I take initative to attend training programs
- #'TD1'-I was able to unserstand the topics covered in the training
- #'EM1'-Management should include tainees while deciding the content of the course
- #'TD5'-Training material provided was useful
